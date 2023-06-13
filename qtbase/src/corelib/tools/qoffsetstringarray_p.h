@@ -41,7 +41,7 @@
 #define QOFFSETSTRINGARRAY_P_H
 
 //
-//  W A R N I N G
+//  W A R N I N G#include <limits>
 //  -------------
 //
 // This file is not part of the Qt API.  It exists purely as an
@@ -55,6 +55,7 @@
 
 #include <tuple>
 #include <array>
+#include <limits>
 
 QT_BEGIN_NAMESPACE
 

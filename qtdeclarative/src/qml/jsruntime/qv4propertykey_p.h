@@ -51,6 +51,7 @@
 //
 
 #include <private/qv4global_p.h>
+#include <limits>
 
 QT_BEGIN_NAMESPACE
 
